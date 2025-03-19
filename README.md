@@ -20,7 +20,7 @@
 📌 **Modelli di machine learning per la previsione dei prezzi dei calciatori**  
 🔧 **Tecnologie utilizzate:** Rstudio 
 
-### 🔹 [Stress Level Analysis](https://github.com/tuo-username/progetto-2)
+### 🔹 [Stress Level Analysis](https://github.com/LorenzoDeSimoni/Projects/blob/main/ML_StressLevel.R)
 📌 **Analisi del livello di stress di alcuni studenti, utilizzando algoritmi di machine learning come random Forest e reti neurali** 
 🔧 **Tecnologie utilizzate:** RStudio 
 📖 **Articolo correlato:** [Medium](https://medium.com/tuo-articolo)  
