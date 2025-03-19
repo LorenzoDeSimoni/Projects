@@ -16,13 +16,17 @@
 
 ## 📂 Progetti in Evidenza
 
-### 🔹 [Previsioni dei valori dei calciatori con Statistical Learning](https://github.com/LorenzoDeSimoni/progetto-1)
+### 🔹 [Previsioni dei valori dei calciatori con Statistical Learning](https://github.com/LorenzoDeSimoni/Projects/blob/main/PCA_VinhoVerde.R)
 📌 **Modelli di machine learning per la previsione dei prezzi dei calciatori**  
 🔧 **Tecnologie utilizzate:** Rstudio 
 
 ### 🔹 [Stress Level Analysis](https://github.com/LorenzoDeSimoni/Projects/blob/main/ML_StressLevel.R)
 📌 **Analisi del livello di stress di alcuni studenti, utilizzando algoritmi di machine learning come random Forest e reti neurali** 
 🔧 **Tecnologie utilizzate:** RStudio 
+
+### 🔹 [Previsioni dei valori dei calciatori con Statistical Learning](https://github.com/LorenzoDeSimoni/Projects/blob/main/PCA_VinhoVerde.R)
+📌 **Modelli di machine learning per la previsione dei prezzi dei calciatori**  
+🔧 **Tecnologie utilizzate:** Rstudio 
 
 ---
 
