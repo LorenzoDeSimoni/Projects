@@ -1,5 +1,5 @@
 # Projects
-# 👋 Ciao, sono [Lorenzo De Simoni]!
+# 👋 Ciao, sono Lorenzo De Simoni!
   
 🎯 Specializzato in **Analisi Statistiche, codice R e Python**  
 🚀 Appassionato di **Machine Learning, Statistical Learning, Reinforcement Learning, Data Analysis**  
