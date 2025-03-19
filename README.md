@@ -16,7 +16,7 @@
 
 ## 📂 Progetti in Evidenza
 
-### 🔹 [Previsioni dei valori dei calciatori con Statistical Learning](https://github.com/LorenzoDeSimoni/Projects/blob/main/PCA_VinhoVerde.R)
+### 🔹 [Previsioni dei valori dei calciatori con Statistical Learning](https://github.com/LorenzoDeSimoni/Projects/blob/main/SL_PlayersValue.html)
 📌 **Modelli di machine learning per la previsione dei prezzi dei calciatori**  
 🔧 **Tecnologie utilizzate:** Rstudio 
 
@@ -24,8 +24,8 @@
 📌 **Analisi del livello di stress di alcuni studenti, utilizzando algoritmi di machine learning come random Forest e reti neurali** 
 🔧 **Tecnologie utilizzate:** RStudio 
 
-### 🔹 [Previsioni dei valori dei calciatori con Statistical Learning](https://github.com/LorenzoDeSimoni/Projects/blob/main/PCA_VinhoVerde.R)
-📌 **Modelli di machine learning per la previsione dei prezzi dei calciatori**  
+### 🔹 [Analisi Componenti Principali e Factor Analysis](https://github.com/LorenzoDeSimoni/Projects/blob/main/PCA_VinhoVerde.R)
+📌 **Pca e factor analysis utilizzate per analizzare la qualità percepita dai consumatori di Vinho Verde**  
 🔧 **Tecnologie utilizzate:** Rstudio 
 
 ---
