@@ -1,5 +1,3 @@
-setwd("C:/Users/vanes/OneDrive - Università degli Studi di Milano-Bicocca/CLAMSES/SECONDO ANNO/Modelli Baysiani/Progetto")
-
 # -------------------------------------------------------------------------
 # dati
 # -------------------------------------------------------------------------
