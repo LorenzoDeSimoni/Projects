@@ -16,6 +16,10 @@
 
 ## 📂 Progetti in Evidenza
 
+### 🔹 [Previsione del prezzo delle case a Milano](https://github.com/LorenzoDeSimoni/Projects/blob/main/SL_PlayersValue.html)
+📌 **Feature engeneering, regression models(LM, lasso), random forest, cross-validation, variable selection**  
+🔧 **Tecnologie utilizzate:** Rstudio 
+
 ### 🔹 [Previsioni dei valori dei calciatori con Statistical Learning](https://github.com/LorenzoDeSimoni/Projects/blob/main/SL_PlayersValue.html)
 📌 **Modelli di machine learning per la previsione dei prezzi dei calciatori**  
 🔧 **Tecnologie utilizzate:** Rstudio 
